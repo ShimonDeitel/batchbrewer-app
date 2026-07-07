@@ -1,0 +1,40 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "group_batchbrewer",
+      "localizations": [],
+      "name": "Batchbrewer Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "com.shimondeitel.homebrew.pro.monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Fermentation timeline reminders and unlimited batch archive",
+              "displayName": "Batchbrewer Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.homebrew.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Batchbrewer Pro Monthly",
+          "subscriptionGroupID": "group_batchbrewer",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
